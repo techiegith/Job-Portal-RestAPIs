@@ -1,3 +1,12 @@
+Snapshot--
+
+![Screenshot (351)](https://github.com/techiegith/Job-Portal-RestAPIs/assets/128968069/9559643a-20ef-4d6c-b9fb-70bddc98c81f)
+![Screenshot (352)](https://github.com/techiegith/Job-Portal-RestAPIs/assets/128968069/b0feb82f-a97e-4759-a029-8ca1b69ca3f3)
+![Screenshot (353)](https://github.com/techiegith/Job-Portal-RestAPIs/assets/128968069/d6126ad3-9ec3-42dc-9387-712f9ea39537)
+![Screenshot (354)](https://github.com/techiegith/Job-Portal-RestAPIs/assets/128968069/006ed274-fb76-4d74-a560-89a72e11b2b6)
+![Screenshot (355)](https://github.com/techiegith/Job-Portal-RestAPIs/assets/128968069/9cbf4506-265f-419d-a10a-e801e38bbe8a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
